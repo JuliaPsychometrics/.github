@@ -11,7 +11,7 @@ It offers a collection of performance optimized tools:
 The currently developed packages are:
 
 - [AbstractItemResponseModels.jl](https://github.com/JuliaPsychometrics/AbstractItemResponseModels.jl): A package providing an abstract interface for item response modeling.
-- [RaschModels.jl](https://github.com/JuliaPsychometrics/RaschModels.jl): A modeling package combining frequentist an bayesian methods for estimating and testing the following item response models: Rasch Model and LLTM for dichotomous data, (Linear) Partial Credit and (Linear) Rating Scale Model for polytomous data.
+- [RaschModels.jl (public soon)](https://github.com/JuliaPsychometrics/RaschModels.jl): A modeling package combining frequentist an bayesian methods for estimating and testing the following item response models: Rasch Model and LLTM for dichotomous data, (Linear) Partial Credit and (Linear) Rating Scale Model for polytomous data.
 
 ## Want to contribute?
 
