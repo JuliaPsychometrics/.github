@@ -11,8 +11,8 @@ It offers a collection of performance optimized tools:
 The currently developed packages are:
 
 - [AbstractItemResponseModels.jl](https://github.com/JuliaPsychometrics/AbstractItemResponseModels.jl): A package providing an abstract interface for item response modeling.
-- [RaschModels.jl (public soon)](https://github.com/JuliaPsychometrics/RaschModels.jl): A modeling package combining frequentist an bayesian methods for estimating and testing the following item response models: Rasch Model and LLTM for dichotomous data, (Linear) Partial Credit and (Linear) Rating Scale Model for polytomous data.
-- [ItemResponsePlots.jl (public soon)](https://github.com/JuliaPsychometrics/ItemResponsePlots.jl): A plotting package for item response models based on [Makie.jl](https://docs.makie.org/stable/). Includes item characteristic curves, item information curves, expected score plots, and test information plots. 
+- [RaschModels.jl](https://github.com/JuliaPsychometrics/RaschModels.jl): A modeling package combining frequentist an bayesian methods for estimating and testing the following item response models: Rasch Model and LLTM for dichotomous data, (Linear) Partial Credit and (Linear) Rating Scale Model for polytomous data.
+- [ItemResponsePlots.jl](https://github.com/JuliaPsychometrics/ItemResponsePlots.jl): A plotting package for item response models based on [Makie.jl](https://docs.makie.org/stable/). Includes item characteristic curves, item information curves, expected score plots, and test information plots. 
 
 ## Want to contribute?
 
